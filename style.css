@@ -1,0 +1,11 @@
+/*style sheet for ic-07*/
+body{
+	font-family:Arial;
+
+}
+
+.point {
+  stroke-width: 4;
+  stroke: lightblue;
+  fill: darkcyan;
+}
