@@ -4,6 +4,7 @@ body{
 
 }
 
+/* style for points */
 .point {
   stroke-width: 4;
   stroke: lightblue;

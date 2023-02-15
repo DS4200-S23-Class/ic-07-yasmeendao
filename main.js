@@ -34,7 +34,7 @@ console.log("Max x: " +MAX_X);
                   .domain([0, (MAX_X + 10000)]) // add some padding  
                   .range([0, VIS_WIDTH]); 
 
-// Now, we can use X_SCALE to plot our points
+// use X_SCALE to plot our points
 FRAME1.selectAll("points")  
     .data(data)  
     .enter()       
